@@ -1,0 +1,12 @@
+Enter the amount of investment: 20
+Enter the amount of consumption: 30
+Enter the amount of government spending: 40
+Enter the amount earned from exports: 50
+Enter the annual tax: 60
+Enter the currency (Ex: USD, Euros) :  USD
+
+The GDP is: 140 USD
+The Private Savings are: 50 USD
+The Public Savings are: 20 USD
+The National Savings are: 70 USD
+The government is experiencing a budget surplus
