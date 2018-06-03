@@ -1,12 +1,16 @@
-Enter the amount of investment: 20
-Enter the amount of consumption: 30
-Enter the amount of government spending: 40
-Enter the amount earned from exports: 50
-Enter the annual tax: 60
+Enter the amount of investment: 5000
+Enter the amount of consumption: 3500
+Enter the amount of government spending: 1700
+Enter the amount earned from exports: 1950
+Enter the annual tax: 450
 Enter the currency (Ex: USD, Euros) :  USD
 
-The GDP is: 140 USD
-The Private Savings are: 50 USD
-The Public Savings are: 20 USD
-The National Savings are: 70 USD
-The government is experiencing a budget surplus
+The GDP is: 12150 USD
+The Private Savings are: 8200 USD
+The Public Savings are: -1250 USD
+The National Savings are: 6950 USD
+The government is experiencing a budget deficit
+Enter the number of unemployed people:  350
+Enter the total labor force:  3459
+The unemployment rate is: 10.1185%
+Have a good day! 
